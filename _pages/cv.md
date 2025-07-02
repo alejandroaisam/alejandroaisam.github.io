@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political Science, Universität Konstanz, 2024 -
+* Ph.D in Political Science, Universität Konstanz, 2024 - present. 1st supervisor: Dr. Belén González.
 * M.Sc. in Computational Social Sciences, Universidad Carlos III Madrid, 2022-2023
 * B.A. in International Studies, Universidad Carlos III Madrid, 2017-2022
 
