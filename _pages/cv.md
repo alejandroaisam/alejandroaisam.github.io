@@ -17,17 +17,17 @@ redirect_from:
 
 ### Work experience
 
-* April 2024 - : Doctoral researcher
+* Doctoral researcher April 2024 - Present
   * Universität Konstanz
   * Project: Dynamics of Mass Protests
   * Research group: [Communication, Networks and Contention](https://www.polver.uni-konstanz.de/cnc/) 
   
 
-* Apr 2021 - June 2022: Research Assistant
+* Research Assistant Apr 2021 - June 2022 
   * Project: Money and Political Influence: The Political Economy of Spanish Banks
   
 
-* June 2019 - Aug 2019: Research Assistant
+* Research Assistant June 2019 - Aug 2019 
   * Project: Inequality in Spain, 1900-2000: markets, institutions and regulation
   
 
