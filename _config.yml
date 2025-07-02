@@ -22,7 +22,7 @@ repository               : "alejandroaisam/alejandroaisam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "alex_image.png"
+  avatar           : "profile.png"
   name             : "Alejandro Aísa"
   # pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
