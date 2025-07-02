@@ -11,7 +11,7 @@ permalink: /publications/
 
 ### Working Papers
 
-- Aísa, A., González, B., Scholz, S., Weidmann, N.B. *Tracking the Evolution of Violent Tactics in Protest with Images*
+- Aísa, A., González, B., Scholz, S. & Weidmann, N.B. *Tracking the Evolution of Violent Tactics in Protest with Images*
 
 
 
