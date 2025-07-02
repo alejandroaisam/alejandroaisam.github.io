@@ -9,7 +9,7 @@ redirect_from:
 
 I am Alejandro Aísa, second year PhD at the University of Konstanz under the supervision of Dr. Belén González. At the university, I am also a member of the [Communication, Networks and Contention](https://www.polver.uni-konstanz.de/cnc/) research group. 
 
-My research focuses on protests and image analysis. Fortunately, I form part of the "Dynamics of Mass Protest" Project (DMP project), where I research different factors that turn protest violent. 
+My research focuses on protests and image analysis. Fortunately, I form part of the "Dynamics of Mass Protests" Project (DMP project), where I can research about different factors that turn protest violent using images. The project is led by Dr. Belén González, Prof. Dr. Nils B. Weidmann and Prof. Dr. Christian Von Soest. 
 
 ### Other research interests 
 
