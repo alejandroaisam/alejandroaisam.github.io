@@ -11,8 +11,9 @@ I am Alejandro Aísa, second year PhD at the University of Konstanz under the su
 
 My research focuses on protests and image analysis. Fortunately, I form part of the "Dynamics of Mass Protest" Project (DMP project), where I research different factors that turn protest violent. 
 
-## Other research interests 
+### Other research interests 
 
 - Data science and machine learning 
 - Ethnic conflicts 
+- Political history
 
