@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Hello! Nice to meet you!"
+title: "Alejandro Aísa"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Hello! Nice to meet you!
 
 I am Alejandro Aísa, PhD candidate at the University of Konstanz under the supervision of Dr. Belén González. At the university, I am also a member of the [Communication, Networks and Contention](https://www.polver.uni-konstanz.de/cnc/) research group. 
 
