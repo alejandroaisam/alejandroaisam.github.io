@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Political Science, Universität Konstanz, 2024 - present. 1st supervisor: Dr. Belén González.
+### Education
+
+* PhD in Political Science, Universität Konstanz, 2024 - present. 1st supervisor: Dr. Belén González.
 * M.Sc. in Computational Social Sciences, Universidad Carlos III Madrid, 2022-2023
 * B.A. in International Studies, Universidad Carlos III Madrid, 2017-2022
 
-Work experience
-======
+### Work experience
+
 * April 2024 - : Doctoral researcher
   * Universität Konstanz
   * Project: Dynamics of Mass Protests
