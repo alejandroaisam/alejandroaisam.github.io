@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Alejandro Aísa"
 title_separator          : "-"
 name                     : &name "Alejandro Aísa"
-description              : &description "personal description"
+description              : &description "PhD candidate at Univeristy of Konstanz"
 url                      : https://alejandroaisam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alejandroaisam/alejandroaisam.github.io"
@@ -22,10 +22,10 @@ repository               : "alejandroaisam/alejandroaisam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Alex_EPSA.png"
+  avatar           : "alex_image.png"
   name             : "Alejandro Aísa"
   # pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate "
+  bio              : "PhD Candidate"
   location         : "Konstanz, Germany"
   employer         : "Universität Konstanz"
   uri              : # URL
