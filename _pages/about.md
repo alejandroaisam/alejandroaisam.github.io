@@ -20,10 +20,10 @@ My primary academic interest is the study of protest events through image analys
 - Political history
 - checker 14:35
 
+<p align="center">
 
 ![favicon_2](favicon_2.jpg)
 
-![favicon_2](./images/favicon_2.jpg)
+</p>
 
-![favicon_2](../images/favicon_2.jpg)
 
