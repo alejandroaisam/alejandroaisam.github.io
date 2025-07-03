@@ -18,5 +18,5 @@ My primary academic interest is the study of protest events through image analys
 - Data science and machine learning 
 - Ethnic conflicts 
 - Political history
-- Checker 
+- Checker 11.51 am
 
