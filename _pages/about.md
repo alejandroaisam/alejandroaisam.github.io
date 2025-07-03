@@ -18,10 +18,10 @@ My primary academic interest is the study of protest events through image analys
 - Data science and machine learning 
 - Ethnic conflicts 
 - Political history
-- checker 14:41
+- checker 14:43
 
 <p align="center">
-  <img src="favicon2.jpg" alt="favicon" width="200">
+  <img src="favicon_2.jpg" alt="favicon" width="200">
 </p>
 
 
