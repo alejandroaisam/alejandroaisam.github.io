@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hello! Nice to meet you!
+## Hello there!
 
 I am Alejandro Aísa, PhD candidate at the University of Konstanz under the supervision of Dr. Belén González. At the university, I am also a member of the [Communication, Networks and Contention](https://www.polver.uni-konstanz.de/cnc/) research group. 
 
@@ -16,8 +16,8 @@ My primary academic interest is the study of protest events through image analys
 ### Other research interests 
 
 - Data science and machine learning 
-- Ethnic conflicts 
-- Political history
+- Contentious politics
+- Ethnic conflicts
 
 <p align="center">
   <img src="./_pages/favicon_2.jpg">
