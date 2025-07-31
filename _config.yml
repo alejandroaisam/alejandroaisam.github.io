@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Alejandro Aísa"
+title                    : "Alejandro Aisa"
 title_separator          : "-"
-name                     : &name "Alejandro Aísa"
+name                     : &name "Alejandro Aisa"
 description              : &description "PhD candidate at Univeristy of Konstanz"
 url                      : https://alejandroaisam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -187,10 +187,6 @@ exclude:
   - README
   - tmp
   - vendor
-  - _pages/publications.md
-  - _pages/talks.md
-  - _pages/teaching.md
-  - sitemap.xml
 keep_files:
   - .git
   - .svn
@@ -301,7 +297,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones  Etc/UTC
 
 
 # Plugins
