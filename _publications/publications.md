@@ -11,7 +11,8 @@ permalink: /publications/
 
 ### Working Papers
 
-- Aísa, A., González, B., Scholz, S. & Weidmann, N.B. *Tracking the Evolution of Violent Tactics in Protest with Images*
+- Aísa, A., González, B., Scholz, S. & Weidmann, N.B. *Detecting Violent Behaviour in Protest Events: An Images-to-Data Approach*
 
+- Aísa, A. *Who is Causing Trouble? The Effect of Age and Gender on Protest Violence*
 
 
