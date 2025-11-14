@@ -9,7 +9,7 @@ permalink: /publications/
 - To be published
 
 
-### Working Papers
+### Work in progress
 
 - Aísa, A., González, B., Scholz, S. & Weidmann, N.B. *Detecting Violent Behaviour in Protest Events: An Images-to-Data Approach*
 
