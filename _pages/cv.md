@@ -11,7 +11,7 @@ redirect_from:
 
 ### Education
 
-* PhD in Political Science, Universität Konstanz, 2024 - present. 1st supervisor: Dr. Belén González.
+* PhD in Political Science, Universität Konstanz, 2024 - present. 1st supervisor: Dr. Belén González; 2nd supervisor: Nils B. Weidmann
 * M.Sc. in Computational Social Sciences, Universidad Carlos III Madrid, 2022-2023
 * B.A. in International Studies, Universidad Carlos III Madrid, 2017-2022
 
