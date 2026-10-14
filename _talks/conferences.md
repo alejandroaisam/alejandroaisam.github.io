@@ -7,8 +7,11 @@ permalink: /talks/
 
 ## Conferences and Workshops 
 
-### 
+### 2026
 
+- Workshop of the German Association for Peace and Conflict Studies' (AFK) working group “Empirical Methods in Peace and Conflict Research”, 05-06 October, Heidelberg University
+- Workshop *Computational Methods in Conflict and Peace Research New Data, New Insights, New Questions*, 24-25 September, University of Milan
+- European Political Science Society (EPSS) conference, 18-20 June 2026, Belfast
 - Swiss Political Science Association (SPSA) conference, 15-16 January 2026, University of Zürich 
 
 ### 2025 
